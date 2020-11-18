@@ -1,20 +1,18 @@
 Welcome to modularyze's documentation!
 ======================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+.. include:: ../README.rst
 
-   readme
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: Contents
+
    installation
    usage
-   modules
+   constructors
+   limitations
+   api
    contributing
-   authors
    history
 
-Indices and tables
-==================
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
